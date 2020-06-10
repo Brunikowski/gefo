@@ -2,5 +2,4 @@ title: GEFO e.V.
 sass:
         sass_dir: _sass
         style: compressed
-
 theme: jekyll-theme-leap-day
