@@ -2,4 +2,4 @@
 layout: default
 ---
 
-## Alles über Wärmepumpen
+- Alles über Wärmepumpen
