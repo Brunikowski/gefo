@@ -1,1 +1,6 @@
-theme: jekyll-theme-midnight
+title: GEFO e.V.
+sass:
+        sass_dir: _sass
+        style: compressed
+
+theme: jekyll-theme-cayman
